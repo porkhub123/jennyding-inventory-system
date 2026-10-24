@@ -1,7 +1,7 @@
 # Jenny & Ding Sari-Sari Store Inventory Management System
 
 A web-based inventory management system for **Jenny & Ding Sari-Sari Store** (15 Sapphire St., Brgy. San Agustin, Quezon City).
-Capstone project for **BSCPE 41001 – Elective 3: Software Development**, Bestlink College of the Philippines.
+Capstone project for **BSCPE 41003 – Elective 3: Software Development**, Bestlink College of the Philippines.
 
 ## Features
 - **Login and user roles** – Admin (store owner) and Staff; new sign-ups need the owner's approval
