@@ -1,0 +1,10 @@
+# Uploaded product pictures (keep the folder, not the photos)
+uploads/products/*
+!uploads/products/index.html
+# Backups and logs
+*.log
+backup*.sql
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db

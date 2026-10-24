@@ -1,0 +1,7 @@
+# Security settings (Apache): work on XAMPP and on web hosting
+Options -Indexes
+
+# Never let anyone download database or note files from the website
+<FilesMatch "\.(sql|md|txt|log)$">
+    Require all denied
+</FilesMatch>
